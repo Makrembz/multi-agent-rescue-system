@@ -1,0 +1,404 @@
+{
+  "action_log": [
+    {
+      "agent": "Supervisor",
+      "action": "assigned_tasks_{}",
+      "step": 0
+    },
+    {
+      "agent": "Drone1",
+      "action": "perceive",
+      "step": 0
+    },
+    {
+      "agent": "Drone1",
+      "action": "reason",
+      "step": 0
+    },
+    {
+      "agent": "Drone1",
+      "action": "decide",
+      "step": 0
+    },
+    {
+      "agent": "Drone1",
+      "action": "move_to_(0, 1)",
+      "step": 0
+    },
+    {
+      "agent": "Drone1",
+      "action": "act",
+      "step": 0
+    },
+    {
+      "agent": "Drone2",
+      "action": "perceive",
+      "step": 1
+    },
+    {
+      "agent": "Drone2",
+      "action": "reason",
+      "step": 1
+    },
+    {
+      "agent": "Drone2",
+      "action": "decide",
+      "step": 1
+    },
+    {
+      "agent": "Drone2",
+      "action": "move_to_(2, 0)",
+      "step": 1
+    },
+    {
+      "agent": "Drone2",
+      "action": "act",
+      "step": 1
+    },
+    {
+      "agent": "Robot1",
+      "action": "perceive",
+      "step": 2
+    },
+    {
+      "agent": "Robot1",
+      "action": "idle_no_task",
+      "step": 2
+    },
+    {
+      "agent": "Robot2",
+      "action": "perceive",
+      "step": 3
+    },
+    {
+      "agent": "Robot2",
+      "action": "idle_no_task",
+      "step": 3
+    },
+    {
+      "agent": "Supervisor",
+      "action": "assigned_tasks_{}",
+      "step": 4
+    },
+    {
+      "agent": "Supervisor",
+      "action": "assigned_tasks_{}",
+      "step": 4
+    },
+    {
+      "agent": "Drone1",
+      "action": "perceive",
+      "step": 4
+    },
+    {
+      "agent": "Drone1",
+      "action": "reason",
+      "step": 4
+    },
+    {
+      "agent": "Drone1",
+      "action": "decide",
+      "step": 4
+    },
+    {
+      "agent": "Drone1",
+      "action": "move_to_(0, 2)",
+      "step": 4
+    },
+    {
+      "agent": "Drone1",
+      "action": "act",
+      "step": 4
+    },
+    {
+      "agent": "Drone2",
+      "action": "perceive",
+      "step": 5
+    },
+    {
+      "agent": "Drone2",
+      "action": "reason",
+      "step": 5
+    },
+    {
+      "agent": "Drone2",
+      "action": "decide",
+      "step": 5
+    },
+    {
+      "agent": "Drone2",
+      "action": "move_to_(2, 1)",
+      "step": 5
+    },
+    {
+      "agent": "Drone2",
+      "action": "act",
+      "step": 5
+    },
+    {
+      "agent": "Robot1",
+      "action": "perceive",
+      "step": 6
+    },
+    {
+      "agent": "Robot1",
+      "action": "idle_no_task",
+      "step": 6
+    },
+    {
+      "agent": "Robot2",
+      "action": "perceive",
+      "step": 7
+    },
+    {
+      "agent": "Robot2",
+      "action": "idle_no_task",
+      "step": 7
+    },
+    {
+      "agent": "Supervisor",
+      "action": "assigned_tasks_{}",
+      "step": 8
+    },
+    {
+      "agent": "Supervisor",
+      "action": "assigned_tasks_{}",
+      "step": 8
+    },
+    {
+      "agent": "Drone1",
+      "action": "perceive",
+      "step": 8
+    },
+    {
+      "agent": "Drone1",
+      "action": "reason",
+      "step": 8
+    },
+    {
+      "agent": "Drone1",
+      "action": "decide",
+      "step": 8
+    },
+    {
+      "agent": "Drone1",
+      "action": "move_to_(0, 3)",
+      "step": 8
+    },
+    {
+      "agent": "Drone1",
+      "action": "act",
+      "step": 8
+    },
+    {
+      "agent": "Drone2",
+      "action": "perceive",
+      "step": 9
+    },
+    {
+      "agent": "Drone2",
+      "action": "reason",
+      "step": 9
+    },
+    {
+      "agent": "Drone2",
+      "action": "decide",
+      "step": 9
+    },
+    {
+      "agent": "Drone2",
+      "action": "move_to_(2, 2)",
+      "step": 9
+    },
+    {
+      "agent": "Drone2",
+      "action": "act",
+      "step": 9
+    },
+    {
+      "agent": "Robot1",
+      "action": "perceive",
+      "step": 10
+    },
+    {
+      "agent": "Robot1",
+      "action": "idle_no_task",
+      "step": 10
+    },
+    {
+      "agent": "Robot2",
+      "action": "perceive",
+      "step": 11
+    },
+    {
+      "agent": "Robot2",
+      "action": "idle_no_task",
+      "step": 11
+    },
+    {
+      "agent": "Supervisor",
+      "action": "assigned_tasks_{}",
+      "step": 12
+    },
+    {
+      "agent": "Supervisor",
+      "action": "assigned_tasks_{}",
+      "step": 12
+    },
+    {
+      "agent": "Drone1",
+      "action": "perceive",
+      "step": 12
+    },
+    {
+      "agent": "Drone1",
+      "action": "reason",
+      "step": 12
+    },
+    {
+      "agent": "Drone1",
+      "action": "decide",
+      "step": 12
+    },
+    {
+      "agent": "Drone1",
+      "action": "move_to_(0, 4)",
+      "step": 12
+    },
+    {
+      "agent": "Drone1",
+      "action": "act",
+      "step": 12
+    },
+    {
+      "agent": "Drone2",
+      "action": "perceive",
+      "step": 13
+    },
+    {
+      "agent": "Drone2",
+      "action": "reason",
+      "step": 13
+    },
+    {
+      "agent": "Drone2",
+      "action": "decide",
+      "step": 13
+    },
+    {
+      "agent": "Drone2",
+      "action": "move_to_(2, 3)",
+      "step": 13
+    },
+    {
+      "agent": "Drone2",
+      "action": "act",
+      "step": 13
+    },
+    {
+      "agent": "Robot1",
+      "action": "perceive",
+      "step": 14
+    },
+    {
+      "agent": "Robot1",
+      "action": "idle_no_task",
+      "step": 14
+    },
+    {
+      "agent": "Robot2",
+      "action": "perceive",
+      "step": 15
+    },
+    {
+      "agent": "Robot2",
+      "action": "idle_no_task",
+      "step": 15
+    },
+    {
+      "agent": "Supervisor",
+      "action": "assigned_tasks_{}",
+      "step": 16
+    },
+    {
+      "agent": "Supervisor",
+      "action": "assigned_tasks_{}",
+      "step": 16
+    },
+    {
+      "agent": "Drone1",
+      "action": "perceive",
+      "step": 16
+    },
+    {
+      "agent": "Drone1",
+      "action": "reason",
+      "step": 16
+    },
+    {
+      "agent": "Drone1",
+      "action": "decide",
+      "step": 16
+    },
+    {
+      "agent": "Drone1",
+      "action": "move_to_(0, 5)",
+      "step": 16
+    },
+    {
+      "agent": "Drone1",
+      "action": "act",
+      "step": 16
+    },
+    {
+      "agent": "Drone2",
+      "action": "perceive",
+      "step": 17
+    },
+    {
+      "agent": "Drone2",
+      "action": "reason",
+      "step": 17
+    },
+    {
+      "agent": "Drone2",
+      "action": "decide",
+      "step": 17
+    },
+    {
+      "agent": "Drone2",
+      "action": "move_to_(2, 4)",
+      "step": 17
+    },
+    {
+      "agent": "Drone2",
+      "action": "act",
+      "step": 17
+    },
+    {
+      "agent": "Robot1",
+      "action": "perceive",
+      "step": 18
+    },
+    {
+      "agent": "Robot1",
+      "action": "idle_no_task",
+      "step": 18
+    },
+    {
+      "agent": "Robot2",
+      "action": "perceive",
+      "step": 19
+    },
+    {
+      "agent": "Robot2",
+      "action": "idle_no_task",
+      "step": 19
+    },
+    {
+      "agent": "Supervisor",
+      "action": "assigned_tasks_{}",
+      "step": 20
+    }
+  ]
+}
